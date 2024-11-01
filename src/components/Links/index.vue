@@ -50,9 +50,9 @@ const linksData = [
     link: "https://blog.allms.cn/",
   },
   {
-    icon: Blog,
+    icon: Book,
     name: "WiKi",
-    link: "https://music.imsyy.top/",
+    link: "https://wiki.allms.cn/",
   },
   {
     icon: Compass,
