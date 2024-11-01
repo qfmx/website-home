@@ -50,13 +50,8 @@ const linksData = [
     link: "https://blog.allms.cn/",
   },
   {
-    icon: Cloud,
-    name: "Docker",
-    link: "https://docker.allms.cn/",
-  },
-  {
-    icon: CompactDisc,
-    name: "音乐",
+    icon: Blog,
+    name: "WiKi",
     link: "https://music.imsyy.top/",
   },
   {
@@ -65,13 +60,18 @@ const linksData = [
     link: "https://rainss.cn/",
   },
   {
+    icon: Cloud,
+    name: "Docker",
+    link: "https://docker.allms.cn/",
+  },
+  {
     icon: Book,
-    name: "AI导航",
+    name: "AI",
     link: "https://aibard123.com/",
   },
   {
     icon: Fire,
-    name: "今日帖子",
+    name: "帖子",
     link: "https://linux.do/",
   },
 ];
