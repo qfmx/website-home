@@ -3,7 +3,7 @@
     <div class="power" v-show="!store.playerState">
       <span
         >Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
-        <a href="https://imsyy.top">無名</a>
+        <a href="https://allms.cn">暖月寒星</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
       <span class="hidden"
@@ -16,8 +16,11 @@
       >&nbsp;&amp;
       <!-- 站点备案 -->
       <a href="https://beian.miit.gov.cn" target="_blank"
-        >豫ICP备2022018134号-1</a
-      >
+        >黔ICP备16010125 号-1</a>
+      <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=52050202001316">
+      &nbsp;&amp;
+      贵公网安备 52050202001316号
+      </a>
     </div>
     <div class="lrc" v-show="store.playerState">
       <music-one theme="filled" size="18" fill="#efefef" />

@@ -47,12 +47,12 @@ const linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.allms.cn/",
   },
   {
     icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    name: "Docker",
+    link: "https://docker.allms.cn/",
   },
   {
     icon: CompactDisc,
@@ -61,18 +61,18 @@ const linksData = [
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "暖冬",
+    link: "https://rainss.cn/",
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    name: "AI导航",
+    link: "https://aibard123.com/",
   },
   {
     icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    name: "今日帖子",
+    link: "https://linux.do/",
   },
 ];
 
