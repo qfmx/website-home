@@ -16,7 +16,7 @@
       >&nbsp;&amp;
       <!-- 站点备案 -->
       <a href="https://beian.miit.gov.cn" target="_blank"
-        >黔ICP备16010125 号-1</a>
+        >黔ICP备2024034631号-1</a>
       <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=52050202001316">
       &nbsp;&amp;
       贵公网安备 52050202001316号
