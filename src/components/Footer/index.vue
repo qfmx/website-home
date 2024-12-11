@@ -3,7 +3,7 @@
     <div class="power" v-show="!store.playerState">
       <span
         >Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
-        <a href="https://allms.cn">暖月寒星</a>
+        <a href="https://allms.cn">浅枫沐雪</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
       <span class="hidden"
